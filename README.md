@@ -14,5 +14,5 @@ Ao clicar no ícone ao lado direito, o usuário é redirecionado para meu endere
 
 ## Como visualizar
 
-Abra o arquivo `index.html` no seu navegador.
+Acesse o arquivo (https://kellymourat.github.io/projeto-social/) no seu navegador.
 
