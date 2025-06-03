@@ -1,4 +1,4 @@
-# Projeto Social
+# Projeto Social :calling: :briefcase:
 
 Projeto simples de página web com foco em contatos profissionais.
 
